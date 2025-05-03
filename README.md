@@ -6,76 +6,76 @@
 </p>
 
 <p align="center">
-  <strong>Uma página fictícia de agência digital desenvolvida com HTML e CSS.</strong><br />
-  <a href="https://guimartim.github.io/agencia-fake/" target="_blank">🔗 Acesse aqui o site</a>
+  <strong>A fictional digital agency landing page built with HTML and CSS.</strong><br />
+  <a href="https://guimartim.github.io/agencia-fake/" target="_blank">🔗 Visit the live site</a>
 </p>
 
 ---
 
 ## 🖼️ Preview
 
-<img src=".github/projeto1.png" alt="Imagem do projeto" width="100%"/>
+<img src=".github/projeto1.png" alt="Project preview image" width="100%"/>
 <br>
-<img src=".github/projeto2.png" alt="Imagem do projeto" width="100%"/>
+<img src=".github/projeto2.png" alt="Project preview image" width="100%"/>
 
 ---
 
-## 🧠 Sobre o Projeto
+## 🧠 About the Project
 
-O site simula uma **agência digital fictícia** e foi desenvolvido com o objetivo de praticar os conhecimentos de:
+This website simulates a **fictional digital agency** and was developed with the goal of practicing:
 
-- Estruturação com HTML5
-- Estilização com CSS3
-- Organização de seções e navegação
-- Layout moderno e clean
-- Interatividade visual com CSS
+- Structuring with HTML5
+- Styling with CSS3
+- Organizing sections and navigation
+- Clean and modern layout
+- Visual interactivity using CSS
 
-Este projeto faz parte dos meus estudos na área de **Análise e Desenvolvimento de Sistemas**.
-
----
-
-## 💬 Destaques do Projeto
-
-- ✅ **Botão flutuante do WhatsApp**  
-  Ícone posicionado no canto da tela com um link direto para o WhatsApp, facilitando o contato do cliente. Simula um canal de atendimento direto.
-
-- ✅ **Cards interativos com efeito hover**  
-  Os cards de serviços ganham destaque ao passar o mouse, com mudanças sutis de cor, sombra e escala. Isso melhora a experiência do usuário com toques visuais modernos!
+This project is part of my studies in **Systems Analysis and Development**.
 
 ---
 
-## 📚 Seções do site
+## 💬 Project Highlights
+
+- ✅ **Floating WhatsApp Button**  
+  A WhatsApp icon is positioned in the corner of the screen with a direct link for customer contact. It simulates a quick support channel.
+
+- ✅ **Interactive Cards with Hover Effect**  
+  Service cards highlight on hover, with subtle changes in color, shadow, and scale. This improves the user experience with modern visual touches!
+
+---
+
+## 📚 Website Sections
 
 🔹 **Home**  
-Introdução com chamada principal da agência.
+Introduction with the agency’s main tagline.
 
-🔹 **Sobre Nós**  
-Apresentação da missão da agência e quem somos.
+🔹 **About Us**  
+Overview of the agency’s mission and who we are.
 
-🔹 **Serviços**  
-Lista com os principais serviços oferecidos.
+🔹 **Services**  
+A list of the main services offered.
 
-🔹 **Fale Conosco**  
-Formulário simples para contato (estático).
+🔹 **Contact Us**  
+A simple (static) contact form.
 
 ---
 
-## 📁 Tecnologias Utilizadas
+## 📁 Technologies Used
 
 - HTML5
 - CSS3
 
-> Nenhuma biblioteca ou framework foi utilizada. Projeto feito com puro HTML e CSS!
+> No libraries or frameworks were used. This project was built entirely with pure HTML and CSS!
 
 ---
 
-## 🚀 Como visualizar o projeto
+## 🚀 How to View the Project
 
-Você pode acessar diretamente pelo GitHub Pages:
+You can view it directly via GitHub Pages:
 
 👉 [https://guimartim.github.io/agencia-fake/](https://guimartim.github.io/agencia-fake/)
 
-Ou clonar este repositório e abrir o arquivo `index.html` no navegador.
+Or clone this repository and open the `index.html` file in your browser:
 
 ```bash
 git clone https://github.com/guimartim/agencia-fake.git
